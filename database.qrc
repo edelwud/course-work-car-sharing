@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>database/users.db</file>
+        <file>database/orders.db</file>
+        <file>database/cars.db</file>
+    </qresource>
+    <qresource prefix="/ssac" lang="ascac"/>
+</RCC>

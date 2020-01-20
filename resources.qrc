@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/cars">
+        <file>19MerAcl180Sport5drGryHO2_800.jpg</file>
+        <file>19MerAcl180Sport5drGryFR1_800.jpg</file>
+    </qresource>
+    <qresource prefix="/database"/>
+    <qresource prefix="/database" lang="db"/>
+    <qresource prefix="/db" lang="db"/>
+</RCC>
